@@ -118,10 +118,10 @@ button:hover{
 .img__top:hover{
     transform: scale(1.05);
 }
-.advantages .container {
+.advantages .container{
     height: 500px;
 }
-.advantages__title {
+.advantages__title{
     display: flex;
     justify-content: center;
     margin-top: 50px;
@@ -130,7 +130,7 @@ button:hover{
     color: #1f2937;
     font-weight: 900;
 }
-.advantages__lyaout {
+.advantages__lyaout{
     display: flex;
     justify-content: center;
     gap: 50px;
@@ -167,7 +167,7 @@ button:hover{
     width: 800px;
 
 }
-.main__info p {
+.main__info p{
     font-weight: normal;
     font-style:italic;
     color: #1f2937;
@@ -204,12 +204,13 @@ align-items: center;
 
 
 }
-.wrapper__text h1{
-    color: #fff;
-}
+
 .main__call button{
 
     border: 1px solid #fff;
+}
+.main__call-text h1{
+    color: #fff;
 }
 
 footer {
